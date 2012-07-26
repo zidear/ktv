@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KTV_linux", "KTV_linux.vcproj", "{635161A3-59A9-392D-B85E-B7D2BFF293CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635161A3-59A9-392D-B85E-B7D2BFF293CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{635161A3-59A9-392D-B85E-B7D2BFF293CB}.Debug|Win32.Build.0 = Debug|Win32
+		{635161A3-59A9-392D-B85E-B7D2BFF293CB}.Release|Win32.ActiveCfg = Release|Win32
+		{635161A3-59A9-392D-B85E-B7D2BFF293CB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
